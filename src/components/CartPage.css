@@ -1,0 +1,25 @@
+.cart-page {
+  margin: 2rem;
+  padding: 0 1rem;
+  background-color: bisque;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+/* cart-product */
+.cart-product {
+  display: flex;
+  margin: 20px 0;
+}
+
+.cart-product img {
+  margin-right: 30px;
+  width: 70px;
+  height: 100px;
+}
+
+.image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
